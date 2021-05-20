@@ -65,11 +65,12 @@ async def about(client, message):
                     [
                         InlineKeyboardButton("BACK", callback_data="help_data"),
                         InlineKeyboardButton("START", callback_data="start_data"),
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot")
                     ]
+                  #  ],
+                   # [
+                     #   InlineKeyboardButton(
+                      #      "SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot")
+                   # ]
                 ]
             ),
             reply_to_message_id=message.message_id
