@@ -1,13 +1,19 @@
 class script(object):
 
 
-    START_MSG = """<b> This bot is unavailable due to copyright infringement.</b> """
+    START_MSG = """<b> You are in wrong place Dude!!
+
+ my master created me ,Only for his Group.
+
+you can't use me in any public groups
+
+You can find me in  @OnlineStorylovers group</b> """
 
 
-    HELP_MSG = """<b> This bot is unavailable due to copyright infringement.</b> """
+    HELP_MSG = """<b> Don't waste your time</b> """
 
 
-    ABOUT_MSG = """●<b>My Name : Personal Assistant</b>
+    ABOUT_MSG = """●<b>My Name : DQ 2.0</b>
     
 ●<b>Creater :</b> @OO7RObot
 
